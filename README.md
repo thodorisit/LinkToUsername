@@ -1,6 +1,8 @@
 # LinkToUsername
 Get the username part of a social media link or email.
 
+##### Each method validates the username. If it follows the rules, it returns the username, in any other case it returns "error-no-match".
+
 ## Available platforms
 
 ### Facebook
