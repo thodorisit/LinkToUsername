@@ -14,6 +14,15 @@ LinkToUsername::facebook('YOUR-TERM');
 - https://<span>facebook</span>.com/{username} -> returns {username}
 - ww<span>w.facebook</span>.com/{username} -> returns {username}
 - <span>facebook</span>.com/{username} -> returns {username}
+- https://<span>wwww.fb</span>.com/{username} -> returns {username}
+- https://<span>fb</span>.com/{username} -> returns {username}
+- ww<span>w.fb</span>.com/{username} -> returns {username}
+- <span>fb</span>.com/{username} -> returns {username}
+- https://<span>wwww.fb</span>.me/{username} -> returns {username}
+- https://<span>fb</span>.me/{username} -> returns {username}
+- ww<span>w.fb</span>.me/{username} -> returns {username}
+- <span>fb</span>.me/{username} -> returns {username}
+
 - {username} -> returns {username}
 ##### If the term ('YOUR-TERM') doesn't follow the rules above, the method returns an error message "error-no-match".
 
