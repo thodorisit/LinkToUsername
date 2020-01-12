@@ -1,12 +1,12 @@
 <?php
 
 /**
-	 * @package    LinkToUsername
-	 * @author     Thodoris Itsios <www.itsios.eu>
-	 * @copyright  (c) 2020 Thodoris Itsios
-	 * @license    MIT License
-	 * @link       https://github.com/thodorisit/LinkToUsername
-	 */
+ * @package    LinkToUsername
+ * @author     Thodoris Itsios <www.itsios.eu>
+ * @copyright  (c) 2020 Thodoris Itsios
+ * @license    MIT License
+ * @link       https://github.com/thodorisit/LinkToUsername
+*/
 
 class LinkToUsername {
 
